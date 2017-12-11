@@ -2,17 +2,12 @@ package Pack;
 
 import org.testng.annotations.Test;
 
-public class Test1 
+public class TestDremo1 
 {
 	@Test
-	public void test()
+	public void tres()
 	{
 		System.out.println("test 1");
-	}
-	@Test
-	public void test2()
-	{
-		System.out.println("test 2");
 	}
 
 }
